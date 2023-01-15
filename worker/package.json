@@ -1,19 +1,16 @@
 {
-  "private": true,
-  "name": "workers-airtable-form-handler",
-  "version": "1.0.0",
-  "description": "A template for kick starting a Cloudflare Workers project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "format": "prettier --write '**/*.{js,css,json,md}'"
-  },
-  "author": "Kristian Freeman <kristian@kristianfreeman.com>",
-  "license": "MIT",
+  "name": "worker",
+  "version": "0.0.0",
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "@cloudflare/workers-types": "^4.20221111.1",
+    "typescript": "^4.9.4",
+    "vitest": "^0.27.1",
+    "wrangler": "2.7.1"
   },
-  "dependencies": {
-    "airtable": "^0.11.1"
+  "private": true,
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler publish",
+    "test": "vitest"
   }
 }
