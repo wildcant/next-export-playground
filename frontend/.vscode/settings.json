@@ -1,0 +1,6 @@
+{
+  "frontMatter.preview.host": "http://localhost:3000/api/preview?secret=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiMjVmZmYzNTRiYmQ4YWIwNmFjYzZhMTY4NzJlMjA0YzRkNjBlMTVkOGIwMzI2MGUxYWEzYjJjNzY0YzIzNzY3ZmU0ZmI5N2EzODMxNDVhOWYyM2YxYjE3Mjk1YmYzNWY3NDVkMDM4M2VlODZmYTJlZmY2YjliNjliMzY3M2QwNjU4N2IyNWI5YzU5YTNhYjU3YTk0YmJjY2ZkZDU2ZTc1ZTViNjYyMzU5YThiYjgyMGM5MzE5NWQ4ZGVlNDUyNmZiODQxOCIsImlhdCI6MTY3MzcxODUyOH0.SvGYMPlBln0PNcK6mWtka6afj-FczcU0nXSACt67gJA&slug=hello-world",
+  "[markdown]": {
+    "workbench.editor.languageDetection": false
+  }
+}

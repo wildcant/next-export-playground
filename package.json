@@ -1,0 +1,7 @@
+{
+  "name": "blog",
+  "workspaces": [
+    "frontend",
+    "worker"
+  ]
+}

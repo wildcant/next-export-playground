@@ -1,0 +1,10 @@
+name = "workers-airtable-form"
+main = "index.js"
+compatibility_date = "2023-01-13"
+
+workers_dev = true
+
+[vars]
+AIRTABLE_BASE_ID = "applHyeERVSTPbVmk"
+AIRTABLE_TABLE_NAME = "Form Submissions"
+FORM_URL = "http://localhost:3000/contact"
